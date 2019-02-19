@@ -114,7 +114,7 @@ Partial Class FoHLogin
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label1)
         Me.Name = "FoHLogin"
-        Me.Text = "FoHLogin"
+        Me.Text = "TBRMS"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
